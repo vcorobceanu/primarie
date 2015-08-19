@@ -896,7 +896,7 @@ article a.more {
     bottom: 20px;
 }
 
-article:nth-child(3n-1),section.global .wrap.global > *:nth-child(3n-1) {
+article:nth-child(3n-1) {
     margin-left: 85px;
     margin-right: 85px;
 }
@@ -4704,14 +4704,16 @@ ul.vice li .p_name {
     position: relative;
     margin-top: 43px;
     overflow: hidden;
-    float: left;
+    float: right;
     width: 100%;
     max-width:370px;
 
 
 
 }
-
+.partners-img + .partners-img {
+    clear:both;
+}
 @media only screen and  (min-width: 1366px) and (max-width: 1680px) {
     .page_top_header {
         width: 100%;
