@@ -4696,25 +4696,20 @@ ul.vice li .p_name {
 }
 
 .partners-img a img {
-    position: absolute;
-    top:50%;
-    left:50%;
-    -webkit-transform: translate(-50%, -50%);
-    -moz-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    -o-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);min-height:100%;
-    min-width: 100%;
 
+    max-height: 125px;
 }
 .partners-img{
-    height:125px;
+
     position: relative;
     margin-top: 43px;
     overflow: hidden;
     float: left;
     width: 100%;
     max-width:370px;
+
+
+
 }
 
 @media only screen and  (min-width: 1366px) and (max-width: 1680px) {
