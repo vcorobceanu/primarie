@@ -1,0 +1,288 @@
+
+
+footer .left {
+    background: #472347;
+} 
+
+
+footer .f_menu {
+    background: #401C40;
+} 
+
+
+footer .copy {
+    color: #755776;
+} 
+
+
+footer .copy a {
+    color: #914E60;
+} 
+
+
+
+
+.contact a.contact_us{
+    color:#fff;
+}
+footer .right p.y_info {
+    color: #6DCAB5;
+} 
+
+
+
+
+.lang p,.sec_span, h1, .attention span, nav p, ul.culture li .right .box p,ul.culture li .right .box p a, .city_box .title, .form .ftb, .compl_list li a .compl_title, .name, .sort_b .selectboxit-container span,.selectboxit-container .selectboxit-options a, .calendar_slider table thead tr:first-child td, .calendar_slider table thead tr td, .com_box .title, .cns_locali thead tr td, .sec_details .sec_name, .secretar span, table.plc > tbody > tr > td > a, .adv, .s_title, .det_news, .search_t span, .search_p span, .cda ul li .left a, ul.vice li .name, .bgr .info > ul > li .left {
+    color: #472347;
+} 
+
+section .search input[type=submit] {
+    background: #472347;
+} 
+
+.dop .top {
+    border-bottom: 4px solid #472347;
+} 
+
+
+
+
+.chat_b,  .cont_form .prp a,.mini_header .m_lang li a, .form.green .ftb, .stat_info span:last-child, .search_li li p span, .contact_l .prp a, .contact_r .prp a {
+    color: #472347;
+} 
+
+table.plc > tbody > tr > td:first-child {
+    border-color: #472347;
+} 
+
+.menu_block, .cont_form input[type="submit"], .mini_header .content, .page_top_content .row2 .content, .green input[type=submit], .dop .top, .ldmbox input[type=submit] {
+    background: #472347;
+} 
+
+.contact_l .prp, .contact_r .prp {
+    border: 2px solid #472347;
+} 
+
+ul.a_n li a span {
+    background-color: #472347;
+} 
+
+
+table.taxe thead tr, table.taxe thead tr td {
+    border: 1px solid #968196;
+} 
+
+
+
+.dop .top hr {
+    background: #af82af;
+} 
+
+
+
+.compl_list li a span, .a_box p.data,.p_data {
+    background-color: #E16C5A;
+} 
+
+.left_block .chat .green{
+    color: #E16C5A;
+} 
+
+.home_chat {
+    border: 2px solid #E16C5A;
+} 
+
+
+
+.left_block ul.menu > li ul li a, .left_block ul.menu li.active a, .ag_line p,.ag_line span, .ldm_li b {
+    color: #5BB29E;
+} 
+
+.ag_line span {
+    border: 2px solid #5BB29E;
+} 
+
+
+.left_block .chat .violet{
+    color: #389c85;
+} 
+.n_alert .cntn p {
+    color: #c76502;
+} 
+
+.n_alert .n_info .n_data {
+    background: #c76502;
+} 
+
+
+footer .newsletter_subscribe_form input[type=submit] {
+    border: 2px solid #EEA459;
+} 
+
+footer .newsletter_subscribe_form input[type=submit], .attention p.title,  .ath p, .subt {
+    color: #EEA459;
+} 
+table.taxe thead tr td{
+    color:#AD626F;
+}
+.search_s input[type=submit], .snd_sbm {
+    background: #EEA459;
+} 
+
+
+article .categ_title a, table.orar thead tr:first-child, .clu_nume {
+    color: #AE626F;
+} 
+
+.l_a li a span {
+    background-color: #AE626F;
+} 
+
+.ldmbox .data p {
+    background: #AE626F;
+} 
+
+
+p.form_title, ul.faq li a span {
+    color: #ca5f71;
+} 
+
+article .categ_title a:hover, .form .content input[type=submit], .video_d {
+    background: #ca5f71;
+} 
+
+
+.bgr .info > ul > li .right.list:before {
+    content: url('../img/f_li_svg.png');
+}
+.a_box .title a,table.atz tr td:nth-child(2) {
+    color: #AE626F;
+}
+.pag ul li a, .pag ul li{
+    color:#AD626F;
+}
+.av.green p span{
+    color:#E16C5A;
+}
+.calendar_slider table thead tr td {
+    border: 1px solid #78583f
+}
+.adv{
+    background-color:#dfgfdf;/*info de la sondaje*/
+    border-color:#fgfgfg;
+}
+@media only screen and (max-width: 767px){
+    .l_box {
+        color: #472347;
+        border-color: #472347;
+    }
+    .l_box span{
+        color:#472347;
+    }
+}
+footer .search input[type=submit]{
+    color:#00bd9c;
+    border-color:#00bd9c;
+}
+.f_fb{
+    background:url('../img/fb_vgy.png')no-repeat center #643555;
+}
+.f_odno{
+    background:url('../img/odno_vgy.png')no-repeat center #643555;
+}
+.f_vk{
+    background:url('../img/vk_vgy.png')no-repeat center #643555;
+}
+.f_twitter{
+    background:url('../img/twitter_vgy.png')no-repeat center #643555;
+}
+.f_rss{
+    background:url('../img/rss_vgy.png')no-repeat center #643555;
+}
+.f_gplus{
+    background:url('../img/gplus_vgy.png')no-repeat center #643555;
+}
+.prefooter .row1_l {
+    background: url('../img/foter_an_vgy.png')no-repeat right bottom #EEA459;
+}
+.prefooter .row1_l .data {
+    background: #E16C5A;
+}
+.prefooter .row1_l p.f_title,.prefooter .row1_l p,.home_chat p,.home_chat p span  {
+    color:#fff;
+}
+article .sub_list ul li {
+    background: url('../img/article_li_vgy.png') no-repeat left 4px;
+}
+.top_el .home_chat, .home_chat{
+    border-color:#55B39B;
+    background-color:#55B39B;
+}
+.home_chat .pct {
+    background: url('../img/chat_dots_vgy.png') no-repeat 8px center;
+}
+.lang p{
+    background:#fff;
+}
+.lang ul li:first-child {
+    background: #FFDCC0;
+}
+.lang ul li:nth-child(2) {
+    background: #FAC897;
+}
+.lang ul li:last-child {
+    background: #ECA855;
+}
+.contact_l .prp a {
+    background: url('../img/phone_book_vgy.png')no-repeat left center;
+}
+.contact_r .prp a {
+    background: url('../img/bus_vgy.png')no-repeat left top;
+}
+.left_block .chat .mn {
+    background: url('../img/chat_man_vgy.png') no-repeat center;
+    background-size: 100%;
+}
+.sitemap > ul > li > a {
+    background: url('../img/f_li_svg.png')no-repeat left 4px;
+}
+.sitemap > ul > li > ul > li > a {
+    background: url('../img/s_li_vgy.png')no-repeat left 4px;
+}
+header .cont_form .prp{
+    border-color: #472347;
+}
+.urg thead tr {
+    background: #E16C5A;
+}
+.urg tbody tr td:first-child {
+    background: url('../img/g_phone_vgy.png') no-repeat left 30px;
+}
+
+.dop .right .status.on {
+    background: url('../img/chat_dots_vgy.png') no-repeat left center;
+}
+.dop .right .buttons button.firechat-hide{
+    background:url('../img/save_vgy.png')no-repeat center #fff;
+}
+.dop .right .buttons button.firechat-close{
+    background:url('../img/close_vgy.png')no-repeat center #fff;
+}
+.dop .right .buttons button.firechat-show{
+    background:url('../img/unsave_vgy.png')no-repeat center #fff;
+}
+.prefooter .row1_r p.f_title{
+    color:#E2695E;
+}
+.prefooter .row1_r .data{
+    background: #55B39B;
+}
+.prefooter .row1_r a.f_artc {
+    color: #55B39B;
+}
+.tda span, .ldmbox p.tda span{
+    color:#c76502;
+}
+.n_alert:before {
+    border-left: 4px solid #AE626F;
+}
